@@ -1,0 +1,27 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: junyu33
+      link: https://junyu33.me/
+      avatar: https://junyu33.me/img/avatar.jpg
+      descr: Junyu Zhou
+    2:
+      name: tiger1218
+      link: https://tiger1218.com/
+      avatar: https://www.google.com/url?sa=i&url=https%3A%2F%2Fzh.pngtree.com%2Ffree-black-background&psig=AOvVaw1v2KrdHDDMs-KAb05AC1QR&ust=1709623382509000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCQ9cSJ2oQDFQAAAAAdAAAAABAE
+      descr: Ziqin Li
+
+#  class2:
+#    class_name: 链接无效
+#    link_list:
+#      1:
+#        name: 梦xxx
+#        link: https://blog.xxx.com
+#        avatar: https://xxxx/avatar.png
+#        descr: xxxx
+#      2:
+#        name: xx
+#        link: https://www.axxxx.cn/
+#        avatar: https://x
+#        descr: xx
